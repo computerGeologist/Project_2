@@ -19,7 +19,14 @@ Reviews?
 -Maybe measure- drop off over first week? First two weeks?
 -How does average value per theater correlate with number of theaters?
 
+Cut off reviews after the period of looking at box offices
+Look at Actors- will learn to handle categorical variables. Take top N actors. For each actor, have a binary column.
+
 Can we measure impact from other movies from the same genre?
+Exponential fit?
+Linear regression- linearly connected terms.
+Can apply nonlinear function to a feature.
+
 
 
 You are a theater, deciding how long you want to show a movie. It's the end of the fourth week, and the box office return was great, but Metacritic reviews are mediocre.
